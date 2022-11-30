@@ -1,6 +1,6 @@
 # Learning Git #
 
-Important steps for Git workflow
+Important steps for Git workflow!
 
 1. Initialize repository with git init
 2. Create changes in project files
